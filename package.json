@@ -1,0 +1,13 @@
+{
+  "name": "security-test-app",
+  "version": "1.0.0",
+  "description": "Test app for Snyk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.19"
+  }
+}
